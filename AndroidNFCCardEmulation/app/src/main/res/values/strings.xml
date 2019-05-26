@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Host Base Card Emulation Test</string>
+    <string name="servicedesc"></string>
+    <string name="aiddescription"></string>
+    <string-array name="patient_array">
+        <item>Ben</item>
+        <item>Cameron</item>
+        <item>Shoban</item>
+        <item>Simon</item>
+    </string-array>
+    <string name="login_message">Welcome %s!</string>
+    <string name="patient_list_header">Patient List</string>
+    <string name="log_out">Log Out</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="virtual_keycard">Virtual KeyCard</string>
+
+</resources>
